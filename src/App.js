@@ -216,12 +216,12 @@ export default function App() {
           <div className="col-md-3 col-6"><img className='rounded img-fluid' src="./kg-1.jpg" width='260px' alt="" /></div>
           <div className="col-md-3 col-6"><img className='rounded img-fluid mb-3' src="./kg-2.jpg" width='260px' alt="" /></div>
           <div className="col-md-3 col-6"><img className='rounded img-fluid' src="./kg-3.jpg" width='260px' alt="" /></div>
-          <div className="col-md-3 col-6"><img className='rounded img-fluid' src="./kg-4.jpg" width='260px' alt="" /></div>
+          <div className="col-md-3 col-6 text-end"><img className='rounded img-fluid' src="./kg-4.jpg" width='260px' alt="" /></div>
         </div>
         <div className="row mt-4">
           <div className="col-md-3 col-6"><img className='rounded img-fluid' src="./kg-5.jpg" width='260px' alt="" /></div>
-          <div className="col-md-3 col-6"><img className='rounded mb-3 img-fluid' src="./kg-6.jpg" width='260px' alt="" /></div>
-          <div className="col-md-6 col-12"><img className='rounded ' src="kg-2.jpg" width='590px' height='175px' alt="" /></div>
+          <div className="col-md-9 col-6 text-end"><img className='rounded mb-3 img-fluid' src="./kg-6.jpg" width='260px' alt="" /></div>
+          
         </div>
       </div>
 
